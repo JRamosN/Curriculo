@@ -1,4 +1,4 @@
-👀 Sobre Mim
+# Sobre Mim
 
 Olá! Sou o João Victor Ramos, um profissional apaixonado por tecnologia. Este repositório contém meu currículo atualizado e informações sobre minha experiência profissional.
 
