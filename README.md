@@ -6,7 +6,7 @@ Olá! Sou o João Victor Ramos, um profissional apaixonado por tecnologia. Este 
 
 🚀 Habilidades
 
-Já trabalhei por 8 meses como estagiário de suporte, nesse tempo consegui aprender muito sobre a área além de desenvolver minhas habilidades em manutenção de desktops, notebooks e servidores além de realizar atividades como gerenciamento de servidores Active Directory, gerenciamento de Office 365 corporativo, gerenciamento de e-mails, gerenciamento básico de MikroTik. 
+Trabalho a mais de 1 ano como analista de suporte Jr, nesse tempo consegui aprender muito sobre a área além de desenvolver minhas habilidades em manutenção de desktops, notebooks e servidores além de realizar atividades como gerenciamento de servidores Active Directory, gerenciamento do Microsoft 365 corporativo, gerenciamento de e-mails, gerenciamento de redes Unifi. 
 
 Consigo me adaptar rapidamente a novos ambientes. Além disso tenho interesse na área de Cibersegurança, e pretendo trabalhar com ela no futuro!
 
@@ -18,6 +18,9 @@ Micro Assist - Estágio de suporte de TI
 01/04/2024 - 12/12/2024
 
 Atividades realizadas - Gerenciamento redes, servidores AD, office 365, e-mails e soluções de backup em nuvem. Também realizava manutenção de desktops, notebooks e servidores.
+
+Eipro Tecnologia - Analista de Suporte Jr
+03/02/2025 - Hoje
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
