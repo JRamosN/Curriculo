@@ -2,7 +2,7 @@
 
 Analista de Suporte de TI | Infraestrutura & Segurança
 
-Profissional com foco em administração de infraestrutura, gestão de identidades e segurança de redes. Atualmente, atuo na sustentação de ambientes críticos, com sólida experiência em ecossistemas Microsoft (AD, 365) e redes Unifi. Busco constantemente a automação de processos e a implementação de melhores práticas de cibersegurança para garantir a resiliência do negócio.
+Tenho foco em administração de infraestrutura, gestão de identidades e segurança de redes. Atualmente, atuo na sustentação de ambientes críticos, com sólida experiência em ecossistemas Microsoft (AD, 365) e redes Unifi. Busco constantemente a automação e organização de documentações de processos e a implementação de melhores práticas de cibersegurança para garantir a resiliência do negócio.
 
 ----------------------------------------------------------------------------------------
 
