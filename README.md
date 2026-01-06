@@ -1,3 +1,5 @@
+👨‍💻 João Victor Ramos
+
 Analista de Suporte de TI | Infraestrutura & Segurança
 
 Profissional com foco em administração de infraestrutura, gestão de identidades e segurança de redes. Atualmente, atuo na sustentação de ambientes críticos, com sólida experiência em ecossistemas Microsoft (AD, 365) e redes Unifi. Busco constantemente a automação de processos e a implementação de melhores práticas de cibersegurança para garantir a resiliência do negócio.
@@ -6,15 +8,15 @@ Profissional com foco em administração de infraestrutura, gestão de identidad
 
 🚀 Habilidades & Diferenciais
 
-Idiomas: Inglês nível B1 (Intermediário/Independente) – Fluidez na leitura técnica e compreensão auditiva para suporte e documentação internacional.
+- Idiomas: Inglês nível B1 (Intermediário/Independente) – Fluidez na leitura técnica e compreensão auditiva para suporte e documentação internacional.
 
-Networking & Infra: Especialista em Redes Ubiquiti Unifi, Switches, Roteadores e configuração de VLANs.
+- Networking & Infra: Especialista em Redes Ubiquiti Unifi, Switches, Roteadores e configuração de VLANs.
 
-Gestão de Identidades: Administração avançada de Active Directory (AD) e Microsoft 365 Admin Center.
+- Gestão de Identidades: Administração avançada de Active Directory (AD) e Microsoft 365 Admin Center.
 
-Hardware: Manutenção e diagnóstico de alto nível em Desktops, Notebooks e Servidores corporativos.
+- Hardware: Manutenção e diagnóstico de alto nível em Desktops, Notebooks e Servidores corporativos.
 
-Cibersegurança: Foco em proteção de dados, controle de acesso e políticas de segurança de rede.
+- Cibersegurança: Foco em proteção de dados, controle de acesso e políticas de segurança de rede.
 
 ----------------------------------------------------------------------------------------
 
@@ -48,13 +50,13 @@ Abril de 2024 – Dezembro de 2024
 
 🎓 Formação & Certificações
 
-Graduação: Análise e Desenvolvimento de Sistemas – UNIP (Concluído em 2024).
+- Graduação: Análise e Desenvolvimento de Sistemas – UNIP (Concluído em 2024).
 
-Cibersegurança: Introdução à Cibersegurança – Cisco Networking Academy (2025).
+- Cibersegurança: Introdução à Cibersegurança – Cisco Networking Academy (2025).
 
-Infraestrutura: Manutenção de Microcomputadores – SENAC (2024).
+- Infraestrutura: Manutenção de Microcomputadores – SENAC (2024).
 
-Redes: Curso Prático de Redes de Computadores – Cursa (2023).
+- Redes: Curso Prático de Redes de Computadores – Cursa (2023).
 
 ----------------------------------------------------------------------------------------
 
