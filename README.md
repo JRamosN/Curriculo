@@ -1,77 +1,28 @@
 👨‍💻 João Victor Ramos
+IT Support Analyst | Infrastructure, Security & Automation
 
-Analista de Suporte de TI | Infraestrutura & Segurança
+IT Professional focused on critical infrastructure administration, identity management, and cyber resilience. Holding a degree in Systems Analysis and Development (UNIP), I specialize in optimizing IT operations through workflow automation and implementing rigorous security standards to ensure business continuity.
+--------------
+🚀 Skills & Key Expertise
 
-Tenho foco em administração de infraestrutura, gestão de identidades e segurança de redes. Atualmente, atuo na sustentação de ambientes críticos, com sólida experiência em ecossistemas Microsoft (AD, 365) e redes Unifi. Busco constantemente a automação e organização de documentações de processos e a implementação de melhores práticas de cibersegurança para garantir a resiliência do negócio.
+Automation & Efficiency: Specialized in routine automation and system integration using n8n.
 
-----------------------------------------------------------------------------------------
+Identity Management: Advanced administration of Active Directory (AD) and Microsoft 365 Admin Center.
 
-🚀 Habilidades & Diferenciais
+Infrastructure & Networking: Experience in high-availability networks, asset configuration, and Tier 1/2 technical support.
 
-- Idiomas: Inglês nível B1 (Intermediário/Independente) – Fluidez na leitura técnica e compreensão auditiva para suporte e documentação internacional.
+Cybersecurity: Certified in Introduction to Cybersecurity by Cisco, focusing on data protection and network compliance.
 
-- Networking & Infra: Especialista em Redes Ubiquiti Unifi, Switches, Roteadores e configuração de VLANs.
+Hardware: Professional maintenance and troubleshooting of corporate desktops and laptops (SENAC).
+--------------
+💼 Professional Highlights
 
-- Gestão de Identidades: Administração avançada de Active Directory (AD) e Microsoft 365 Admin Center.
+Eipro Tecnologia: Tier 2 support, intranet network administration, and MySQL database management.
 
-- Hardware: Manutenção e diagnóstico de alto nível em Desktops, Notebooks e Servidores corporativos.
+Micro Assist: Asset coordination, Microsoft 365 licensing, and hybrid (on-site/remote) technical assistance.
+------------
+🎓 Education & Projects
 
-- Cibersegurança: Foco em proteção de dados, controle de acesso e políticas de segurança de rede.
+Education: B.S in Systems Analysis and Development – UNIP (Completed 2024).
 
-----------------------------------------------------------------------------------------
-
-💼 Experiência Profissional
-
-Eipro Tecnologia | Analista de Suporte Jr
-
-Fevereiro de 2025 – Presente
-
-- Administração de Infraestrutura: Monitoramento ativo de ativos de rede para garantir alta disponibilidade e redução de downtime.
-
-- Segurança e Acessos: Gestão de permissões e implementação de políticas de segurança para garantir a integridade e confidencialidade dos dados.
-
-- Automação de Processos: Desenvolvimento de scripts (PowerShell/Bash) para automação de tarefas preventivas e rotinas do sistema.
-
-- Gestão de Incidentes (L2): Suporte de Nível 2 com análise de causa raiz e criação de documentação técnica em Wiki/Confluence.
-
-- Virtualização: Suporte e configuração de ambientes virtualizados e servidores físicos.
-
-Micro Assist | Estagiário de Suporte de TI
-
-Abril de 2024 – Dezembro de 2024
-
-- Identidade e Cloud: Gestão de usuários no Active Directory e administração completa do tenant Microsoft 365.
-
-- Redes e E-mail: Configuração de infraestrutura local e administração de serviços de e-mail corporativo.
-
-- Backup & Recovery: Operação de soluções de backup em nuvem focadas em estratégias de Disaster Recovery.
-
-----------------------------------------------------------------------------------------
-
-🎓 Formação & Certificações
-
-- Graduação: Análise e Desenvolvimento de Sistemas – UNIP (Concluído em 2024).
-
-- Cibersegurança: Introdução à Cibersegurança – Cisco Networking Academy (2025).
-
-- Infraestrutura: Manutenção de Microcomputadores – SENAC (2024).
-
-- Redes: Curso Prático de Redes de Computadores – Cursa (2023).
-
-----------------------------------------------------------------------------------------
-
-📁 Projetos Acadêmicos em Destaque
-
-Sistema de Gestão - PIM IV: https://github.com/JRamosN/PIM-IV-2024
-
-Arquitetura de Sistemas - PIM III: https://github.com/JRamosN/PIM-III-2024
-
-----------------------------------------------------------------------------------------
-
-📞 Contato
-
-Telefone: (12) 99125-8023
-
-LinkedIn: www.linkedin.com/in/joaovramosn/
-
-Email: jvictoramosn@gmail.com
+Certifications: Cisco Cybersecurity , SENAC Computer Maintenance , Cursa Networking.
