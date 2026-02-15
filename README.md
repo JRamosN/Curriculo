@@ -26,3 +26,9 @@ Micro Assist: Asset coordination, Microsoft 365 licensing, and hybrid (on-site/r
 Education: B.S in Systems Analysis and Development – UNIP (Completed 2024).
 
 Certifications: Cisco Cybersecurity , SENAC Computer Maintenance , Cursa Networking.
+
+Highlighted Projects:
+
+Management System (PIM IV): https://github.com/JRamosN/PIM-IV-2024
+
+Systems Architecture (PIM III): https://github.com/JRamosN/PIM-III-2024
